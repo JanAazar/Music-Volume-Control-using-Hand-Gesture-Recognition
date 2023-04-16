@@ -1,4 +1,6 @@
 # Music-Volume-Control-using-Hand-Gesture-Recognition
+
+<img src="https://i.imgur.com/uwv9YRg.jpg"  width="800" height="600">
 This is a Python script that utilizes OpenCV, PyAutoGUI, MediaPipe, and SimpleAudio libraries to control the volume of currently playing music using hand gestures, specifically the index finger and thumb. The script captures video from the webcam, performs hand detection and tracking using MediaPipe, calculates the distance between the index finger and thumb, and maps it to the volume control range. Finally, it uses PyAutoGUI to simulate keyboard events to control the volume.
 
 # Prerequisites
